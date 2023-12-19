@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .listaindex {
+    text-align: center;
+    padding: 8px;
+    width: 200px;
+    margin: auto;
+    padding-bottom: 20px;
+    border: 2px solid black;
+  }
+  
+.description {
+    display: inline-block;
+    text-align: left;
+    width: 600px;
+}
+
+.lista-a,
+.lista-b,
+.lista-c,
+.how-a,
+.how-b,
+.how-c {
+    margin-top: 0;
+    display: inline-block;
+    text-align: left;
+    width: 500px;
+}
+
+.how-c {
+    margin-left: 70px;
+}
+
+
+
